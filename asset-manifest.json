@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.595bc13b.css",
+    "main.js": "/static/js/main.52100f21.js",
+    "static/js/787.10fffb52.chunk.js": "/static/js/787.10fffb52.chunk.js",
+    "static/media/bird.jpg": "/static/media/bird.38c464a017ec7cac1d92.jpg",
+    "static/media/deer.jpg": "/static/media/deer.ca172319deb2b6edae6a.jpg",
+    "static/media/photo.jpg": "/static/media/photo.09ae676d60790b7a06d8.jpg",
+    "static/media/horse.jpg": "/static/media/horse.8ce60c692cf5d5d4d6ab.jpg",
+    "static/media/atul.jpg": "/static/media/atul.2dba3c17b495644f39b6.jpg",
+    "static/media/nature.jpg": "/static/media/nature.88403010a0a4555e8654.jpg",
+    "static/media/Rathika.jpg": "/static/media/Rathika.d8897b8b4c36acec9945.jpg",
+    "static/media/dayanita.jpg": "/static/media/dayanita.4245c07615551b85841b.jpg",
+    "static/media/sudhir.jpg": "/static/media/sudhir.2e91a649d06fc2002925.jpg",
+    "static/media/vikram.jpg": "/static/media/vikram.768005b5ccc4ef63ff0a.jpg",
+    "static/media/dabbopatani.jpg": "/static/media/dabbopatani.a93b8c6343e4f8128830.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.595bc13b.css.map": "/static/css/main.595bc13b.css.map",
+    "main.52100f21.js.map": "/static/js/main.52100f21.js.map",
+    "787.10fffb52.chunk.js.map": "/static/js/787.10fffb52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595bc13b.css",
+    "static/js/main.52100f21.js"
+  ]
+}
